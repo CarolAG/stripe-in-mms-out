@@ -21,6 +21,6 @@ var sendingText = function(){
   });
 }
 
-sendingText();
+// sendingText();
 
 module.exports = Texting;
